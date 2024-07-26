@@ -79,8 +79,8 @@ AgriApp is a comprehensive application designed to assist farmers and agricultur
 1. **Clone the repository**:
 
     ```sh
-    git clone <your-github-repo-url>
-    cd your-project/backend
+    git clone https://github.com/rogue0xbyte/agriSure-app
+    cd agriSure-app/backend
     ```
 
 2. **Install dependencies**:
