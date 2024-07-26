@@ -1,13 +1,39 @@
-![image](https://github.com/user-attachments/assets/77b35022-3546-4220-aff3-d3db431506c0)![image](https://github.com/user-attachments/assets/4f7bae60-d54c-4627-b910-cd9873b482a3)# AgriApp
+# AgriApp
 
 ## Overview
 
 AgriApp is a comprehensive application designed to assist farmers and agricultural stakeholders in managing their lands, monitoring weather conditions, and performing remote sensing analysis for soil health. The app aims to leverage modern technologies to provide valuable insights and streamline various agricultural processes.
 
-| ![App Logo](./app_logo.png) |
-| :--------------------------: |
-| using software systems by (thanks to) |
-| ![NABARD](https://www.nabard.org/auth/writereaddata/ContentImgs/1303194734NABARD-ENG-logo-big.png) | ![NRSC/ISRO](https://www.nrsc.gov.in/sites/default/files/inline-images/nrsc_logo_412023_new.png) | ![Bhoonidhi](https://bhoonidhi.nrsc.gov.in/bhoonidhi/images/BhooLogoSearch.png) || ![IMD](https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/India_Meteorological_Department_%28logo%29.png/150px-India_Meteorological_Department_%28logo%29.png) |
+<table style="border-collapse: collapse; max-width: 80%; margin: auto; background-color: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+        <tr>
+            <td style="text-align: center; padding: 16px; vertical-align: middle;">
+                <img src="./app_logo.png" alt="App Logo" style="max-width: 100%; height: auto;">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; padding: 16px; vertical-align: middle;">
+                Using software systems by (thanks to)
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; padding: 16px; vertical-align: middle;">
+                <img src="https://www.nabard.org/auth/writereaddata/ContentImgs/1303194734NABARD-ENG-logo-big.png" alt="NABARD" style="max-width: 100px; margin: 0 10px;">
+                <img src="https://www.nrsc.gov.in/sites/default/files/inline-images/nrsc_logo_412023_new.png" alt="NRSC/ISRO" style="max-width: 100px; margin: 0 10px;">
+                <img src="https://bhoonidhi.nrsc.gov.in/bhoonidhi/images/BhooLogoSearch.png" alt="Bhoonidhi" style="max-width: 100px; margin: 0 10px;">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/India_Meteorological_Department_%28logo%29.png/150px-India_Meteorological_Department_%28logo%29.png" alt="IMD" style="max-width: 100px; margin: 0 10px;">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; padding: 16px; vertical-align: middle;">
+                In consultation for problem statements with professors from
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; padding: 16px; vertical-align: middle;">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/IIIT_Bangalore_Logo.svg/1200px-IIIT_Bangalore_Logo.svg.png" alt="IIIT Bangalore" style="max-width: 200px; height: auto;">
+            </td>
+        </tr>
+    </table>
 
 ## Table of Contents
 
