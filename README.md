@@ -1,8 +1,13 @@
-# AgriApp
+![image](https://github.com/user-attachments/assets/77b35022-3546-4220-aff3-d3db431506c0)![image](https://github.com/user-attachments/assets/4f7bae60-d54c-4627-b910-cd9873b482a3)# AgriApp
 
 ## Overview
 
 AgriApp is a comprehensive application designed to assist farmers and agricultural stakeholders in managing their lands, monitoring weather conditions, and performing remote sensing analysis for soil health. The app aims to leverage modern technologies to provide valuable insights and streamline various agricultural processes.
+
+| ![App Logo](./app_logo.png) |
+| :--------------------------: |
+| using software systems by (thanks to) |
+| ![NABARD](https://www.nabard.org/auth/writereaddata/ContentImgs/1303194734NABARD-ENG-logo-big.png) | ![NRSC/ISRO](https://www.nrsc.gov.in/sites/default/files/inline-images/nrsc_logo_412023_new.png) | ![Bhoonidhi](https://bhoonidhi.nrsc.gov.in/bhoonidhi/images/BhooLogoSearch.png) || ![IMD](https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/India_Meteorological_Department_%28logo%29.png/150px-India_Meteorological_Department_%28logo%29.png) |
 
 ## Table of Contents
 
